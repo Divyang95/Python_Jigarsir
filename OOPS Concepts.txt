@@ -1,0 +1,15 @@
+1)What are the main object oriented concepts ?
+Ans 1: concepts are 1)class 2)object 3)inheritance 4)polymorphism 5)Abstraction 6)Encapsulation
+
+1)Class: class is a group of different type of variable and functions.
+2)Object : It is an instance of class.(Instance means one part)
+
+
+inheritance: object of one class can aquire properties of object of another class is called inheritance 
+There are mainly 5 types of inheritance is available 
+1)single 2)multi level 3)multiple 4)hierarchy 5)hybrid 
+inheritance is mainly used for the reuseability
+
+
+
+ 

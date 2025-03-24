@@ -1,0 +1,11 @@
+
+bank1 Your Account opened with 100 number and balance is 1000on19/02/2025and time14hours:37 minutes
+bank1 your account credited with 500 your balance is 1500 Rs. on19/02/2025and time 14hours:37 minutes
+bank1 your account credited with 500 your balance is 2000 Rs. on19/02/2025and time 14hours:37 minutes
+bank1 your account credited with 500 your balance is 2500 Rs. on19/02/2025and time 14hours:37 minutes
+bank1 your account credited with 500 your balance is 3000 Rs. on19/02/2025and time 14hours:37 minutes
+bank1 Your Account opened with 1000 number and balance is 1000on19/02/2025and time14hours:39 minutes
+bank1 your account credited with 500 your balance is 1500 Rs. on19/02/2025and time 14hours:39 minutes
+bank1 your account credited with 2525 your balance is 4025 Rs. on19/02/2025and time 14hours:39 minutes
+bank1 your account credited with 2525 your balance is 6550 Rs. on19/02/2025and time 14hours:39 minutes
+bank1 your account credited with 2525 your balance is 9075 Rs. on19/02/2025and time 14hours:39 minutes

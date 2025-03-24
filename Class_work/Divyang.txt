@@ -1,0 +1,9 @@
+
+Divyang Your Account opened with 123 number and balance is 1000
+Divyang your account credited with 500 your balance is 1500 Rs.
+Divyang your account credited with 10000 your balance is 11500 Rs.
+Divyang Your account debited with 500 Your balance is 11000 Rs.
+Divyang Your account debited with 600 Your balance is 10400 Rs.
+Divyang Your account debited with 660 Your balance is 9740 Rs.
+Divyang Your account debited with 5000 Your balance is 4740 Rs.
+Divyang Your account debited with 500 Your balance is 4240 Rs.

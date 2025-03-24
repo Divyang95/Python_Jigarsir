@@ -1,0 +1,27 @@
+1)What are the main object oriented concepts ?
+Ans 1: concepts are 1)class 2)object 3)inheritance 4)polymorphism 5)Abstraction 6)Encapsulation
+
+1)Class: class is a group of different type of variable and functions.
+2)Object : It is an instance of class.(Instance means one part)
+
+
+inheritance: object of one class can aquire properties of object of another class is called inheritance 
+There are mainly 5 types of inheritance is available 
+1)single 2)multi level 3)multiple 4)hierarchy 5)hybrid 
+inheritance is mainly used for the reuseability
+
+Polymorphism : one name multiple form 
+Types of polymorphism 
+1)Compile time polymorphism(method overlaoding) : one there is a more than one method in a single class having the same name but having 
+different number of arguments then this called method over loading.
+2)Run time polymorphism (method overriding): when there is a same method prototype in your both base class and derived class and if you call that method using the object of derived class then only derived class method will be called so you can say that method of derived class
+over rides the method of base class
+
+//method overloading not supports in python
+
+**Exceptions : An exception is an abnormal condition that arises during the runtime of a program. if you do not handle the exception your program will terminate abnormally.
+To handle the exception in python there are mainly three keyword are used 1)try 2)except 3)finally 
+
+if you fill that your code generate an exception then put your code in try block. in any circumstances exception generated in try block then your try block will throw that exception 
+
+ 

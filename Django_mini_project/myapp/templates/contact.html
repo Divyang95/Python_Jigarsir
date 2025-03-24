@@ -1,0 +1,46 @@
+{% extends 'header.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <b style="color: blue;">
+        {% if msg %}
+            {{msg}}
+        {% endif %}
+    </b>
+    <form name="contact" method="post" action="{% url 'contact' %}">
+        {% csrf_token %} 
+        <table>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" name="name"></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="text" name="email"></td>
+            </tr>
+            <tr>
+                <td>Mobile</td>
+                <td><input type="number" name="mobile"></td>
+            </tr> 
+            <tr>
+                <td>Remarks</td>
+                <td><textarea rows="5" cols="22" name="remarks"></textarea></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" name="submit" value="SUBMIT" class="btn btn-primary">
+                </td>
+            </tr>
+        </table>
+
+    </form>
+    <h1>Recent Contacts</h1>
+    {% for item in contacts %}
+        Name:{{item.name}} <br>
+        Remarks:{{item.remarks}}<br><hr>
+    {% endfor %}
+</body>
+    
+</html>
+{% endblock %}
